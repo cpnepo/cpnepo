@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working on resting... (just finished an intense 15-month data science program)
 - 🌱 I’m currently learning GitHub.
 - 👯 I’m looking to collaborate on NLP projects!
 - 🤔 I’m looking for help with deep learning.
